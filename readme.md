@@ -24,7 +24,7 @@
 
 | Public - Search Interface                                   | Admin Panel - Grave Management                  | Admin Panel - Statistics                            |
 | ----------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- |
-| ![Search Interface](https://gravemap.eu/assets/img/search.png) | ![Map View](https://gravemap.eu/assets/img/manage_graves.png) | ![Grave Details](https://gravemap.eu/assets/img/stats.png) |
+| ![Search Interface](screenshots/search.png) | ![Map View](screenshots/manage_graves.png) | ![Grave Details](screenshots/stats.png) |
 
 ## Live Website
 

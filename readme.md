@@ -22,9 +22,9 @@
 
 ## Screenshots
 
-| Search Interface                                            | Map View                                        | Grave Details                                       |
+| Public - Search Interface                                   | Admin Panel - Grave Management                  | Admin Panel - Statistics                            |
 | ----------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- |
-| ![Search Interface](https://placehold.co/600x400?text=Search+Interface) | ![Map View](https://placehold.co/600x400?text=Map+View) | ![Grave Details](https://placehold.co/600x400?text=Grave+Details) |
+| ![Search Interface](https://gravemap.eu/assets/img/search.png) | ![Map View](https://gravemap.eu/assets/img/manage_graves.png) | ![Grave Details](https://gravemap.eu/assets/img/stats.png) |
 
 ## Live Website
 

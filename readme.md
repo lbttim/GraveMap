@@ -24,7 +24,7 @@
 
 | Public - Search Interface                                   | Admin Panel - Grave Management                  | Admin Panel - Dashboard                             |
 | ----------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- |
-| ![Search Interface](screenshots/public.png) | ![Map View](screenshots/management.png) | ![Grave Details](screenshots/dashboard.png) |
+| ![Search Interface](screenshots/public.png) | ![Map View](screenshots/management.png) | ![Grave Details](screenshots/admin_dash.png) |
 
 ## Live Website
 

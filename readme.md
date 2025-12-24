@@ -22,9 +22,9 @@
 
 ## Screenshots
 
-| Public - Search Interface                                   | Admin Panel - Grave Management                  | Admin Panel - Statistics                            |
+| Public - Search Interface                                   | Admin Panel - Grave Management                  | Admin Panel - Dashboard                             |
 | ----------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- |
-| ![Search Interface](screenshots/search.png) | ![Map View](screenshots/manage_graves.png) | ![Grave Details](screenshots/stats.png) |
+| ![Search Interface](screenshots/public.png) | ![Map View](screenshots/management.png) | ![Grave Details](screenshots/dashboard.png) |
 
 ## Live Website
 
